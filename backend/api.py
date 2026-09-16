@@ -3,4 +3,4 @@ import os
 
 
 
-hello
+exit
